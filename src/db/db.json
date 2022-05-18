@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "title": "Advanced Programming",
+      "des": "Course Description. This course exposes students to the depth and breadth of modern programming practice, with the goal of making students better programmers ...",
+      "url": "http://web.cecs.pdx.edu/~black/AdvancedProgramming/"
+    },
+    {
+      "title": "What's advance programming?-Quora",
+      "des": "The idea is to make programmers compete for cash and other prizes by writing lots of code for serious companies. This is a great opportunity for anyone who ...",
+      "url": "https://www.quora.com/Whats-advance-programming"
+    },
+    {
+      "title": "An advanced programming language definition",
+      "des": "by K Culik · 1982 · Cited by 1 — An advanced programming languages definition associates in input/output variables, the domain, and the computable function with each ...",
+      "url": "https://dl.acm.org/doi/abs/10.1145/947941.947947"
+    },
+    {
+      "title": "Advanced Programming Concepts | Undergraduate Catalog",
+      "des": "Advanced software development with an object-oriented focus. Design, implementation, and testing of several large programs in a Java and Linux ...",
+      "url": "https://catalog.byu.edu/physical-and-mathematical-sciences/computer-science/advanced-programming-concepts"
+    },
+    {
+      "title": "Advanced Programming - eopcw",
+      "des": "An advanced programming languages definition associates in input/output variables, the domain, and the computable function with each program.",
+      "url": "https://eopcw.com/find/course/107/courses"
+    },
+    {
+      "title": "Using advanced programming languages features",
+      "des": "The key to the argument lies in the definition of incomprehensible. Understandability is relative. What does it mean for a piece of code to be incomprehensible, ...",
+      "url": "https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/Strandh-Tutorial/using-advanced-features.html"
+    },
+    {
+      "title": "Network Programming",
+      "des": "This chapter explains how to connect your JAVA application to a network. You will learn how to read files from over the internet as well as have two or more ...",
+      "url": "https://people.scs.carleton.ca/~lanthier/teaching/COMP1406/Notes/COMP1406_Ch12_NetworkProgramming.pdf"
+    },
+    {
+      "title": "Advanced Java Programming - Cloud Academy",
+      "des": "The Advanced Java Programming Learning Path is your one-stop guide to mastering recent Java platform updates. It contains detailed explanations of the ...",
+      "url": "https://cloudacademy.com/learning-paths/advanced-java-programming-518/"
+    },
+    {
+      "title": "Network programming for beginners: introduction to sockets",
+      "des": "Sep 10, 2021 — Network programming is about writing computer programs that talk to eachother over a computer network. The world is full of such type of ...",
+      "url": "https://internalpointers.com/post/network-programming-beginners-overview"
+    },
+    {
+      "title": "Embedded system - Wikipedia",
+      "des": "An embedded system is a computer system—a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated ...",
+      "url": "https://en.wikipedia.org/wiki/Embedded_system"
+    },
+    {
+      "title": "What is an Embedded System? Definition and FAQs | OmniSci",
+      "des": "An embedded system is a microprocessor-based computer hardware system with software that is designed to perform a dedicated function, either as an ...",
+      "url": " OmniSciwww.omnisci.com"
+    },
+    {
+      "title": "What is an Embedded System? - TechTarget",
+      "des": "An embedded system is a combination of computer hardware and software designed for a specific function. Embedded systems may also function within a larger ...",
+      "url": "https://www.techtarget.com/iotagenda/definition/embedded-system"
+    },
+    {
+      "title": "Embedded Systems - Udacity",
+      "des": "In the 21st century, embedded systems are the systems of future with cellular phones, smart-phones, tablets becoming the dominant platforms for computing and ...",
+      "url": "https://www.udacity.com"
+    },
+    {
+      "title": "Embedded Systems - Overview - Tutorialspoint",
+      "des": "An embedded system can be thought of as a computer hardware system having software embedded in it. An embedded system can be an independent system or​ ...",
+      "url": "https://www.tutorialspoint.com"
+    },
+    {
+      "title": "Embedded Systems - Mahara-Tech: All courses",
+      "des": "ESS/IP/200 Introduction to Programming. 20. FREE. ESS/OSF/100 Operating Systems Fundamentals. Embedded Systems. Preview Course. Embedded Systems ...",
+      "url": "https://maharatech.gov.eg"
+    },
+    {
+      "title": "Lecture 1.1: What Are Embedded Systems? - Coursera",
+      "des": "The users interact with the device in a natural way, similar to their interactions with any other objects in the world ...",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "title": "Introduction to Embedded Systems Software and ... - Coursera",
+      "des": "Offered by University of Colorado Boulder. Welcome to the Introduction to Embedded Systems Software and Development Environments. This ... Enroll for free.",
+      "url": "https://www.coursera.org"
+    },
+    {
+      "title": "Embedded Systems Tutorial: What is, Types, History & Examples",
+      "des": "Embedded System is a combination of computer software and hardware which is either fixed in capability or programmable. An embedded ...",
+      "url": "https://www.guru99.com"
+    },
+    {
+      "title": "Embedded operating system - Wikipedia",
+      "des": "An embedded operating system is an operating system for embedded computer systems. Embedded operating systems are computer systems designed for a specific ...",
+      "url": "https://en.wikipedia.org/wiki/Embedded_operating_system"
+    },
+    {
+      "title": "Embedded Systems - Shape The World: Microcontroller Input ...",
+      "des": "Introduction to the world of embedded systems with a focus on microcontroller input/output in this hands-on ...",
+      "url": "https://www.edx.org "
+    },
+    {
+      "title": "Embedded Systems - Shape The World: Microcontroller Input ...",
+      "des": "Introduction to the world of embedded systems with a focus on microcontroller input/output in this hands-on ...",
+      "url": "https://www.edx.org"
+    },
+    {
+      "title": "Learn Embedded Systems with Online Courses and Classes ...",
+      "des": "Take free online embedded system courses from top schools and institutions on edX today!",
+      "url": "https://www.edx.org"
+    },
+    {
+      "title": "Learn Embedded Systems with Online Courses and Classes ...",
+      "des": "Take free online embedded system courses from top schools and institutions on edX today!",
+      "url": "https://www.edx.org"
+    }
+  ],
+  "queries": [
+    {
+      "id": 0,
+      "query": "programming"
+    },
+    {
+      "id": 1,
+      "query": "embedded"
+    },
+    {
+      "query": "ne",
+      "id": 2
+    },
+    {
+      "query": "network",
+      "id": 3
+    },
+    {
+      "query": "e",
+      "id": 4
+    }
+  ]
+}

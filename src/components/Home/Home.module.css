@@ -1,0 +1,140 @@
+.div_search{
+    background-image: url(background.webp);   
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+}    
+
+.searchForm{
+    width: 60%;
+}
+
+.searchBar{
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    cursor: text;
+    margin-left: 5px;
+    background-color: transparent;
+    color: white;
+    opacity: 0.8;
+}
+
+::placeholder{
+    color: white;
+}
+
+.search{
+    padding-top: 29%;
+}
+
+.searchButton{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 32%;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.searchButton:hover{
+    letter-spacing: 1px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.searchIcon{ 
+    size: 2px;
+    margin-top: 6px;
+    font-size: 2px; 
+}
+
+.div_searchBar{
+    display: flex;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 49%;
+    height: 50px;
+    cursor: text;
+    padding-left: 10px;
+    background-color: rgba(90, 9, 90, 0.65);
+    margin-left: 25%;  
+}
+
+.div_searchBar:hover{
+    background-color: rgba(90, 9, 90, 0.7);
+    transition: 0.35s;
+}
+
+.div_searchBar:focus-within{
+    transition: 0.3s;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.747);
+    transform:translateY(-5px);
+}
+
+.logo
+{
+    height: 250px; 
+    margin-top: 5%;
+    margin-bottom: -32%;
+    margin-left: 24%;
+    width: 50%;
+    height: 50%;
+}
+
+.searchSuggestions{
+    margin-left: 25%;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 43%;
+    height: 200px;
+    padding-left: 10px;
+    background-color: rgba(90, 9, 90, 0.65);
+    transition: 0.4s;
+    overflow: hidden;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin-top: 5px; 
+}
+
+.searchSuggestions::-webkit-scrollbar{
+    display: none;
+}
+
+p.suggestion{
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    line-height: 2 ;
+    margin: 9px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: auto;
+}
+
+p.suggestion:hover{
+    background-color: rgba(103, 28, 113, 0.169);
+}
+
+.speechButton{
+    background-color:transparent;
+    outline: none;
+    border: none;
+}
+
+.speechButton:hover{
+    cursor: pointer;
+}
+
+.speechIcon{
+    color: white;
+}
+
+
+

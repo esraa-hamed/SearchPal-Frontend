@@ -1,0 +1,299 @@
+.div_searchResults{
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    font-family: sans-serif;
+    position: relative;
+}
+
+.searchDiv{
+    margin-left: 4%;
+    padding-top: 30%;
+    display: flex;
+}
+
+.searchForm{
+    width: 70%;
+}
+
+.div_searchBar{
+    display: flex;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 45%;
+    height: 40px;
+    cursor: text;
+    padding-left: 10px;
+    background-color: rgba(90, 9, 90, 0.678);
+    margin-left: 24%;
+    margin-top: -29%;
+    
+}
+
+.div_searchBar:hover{
+    background-color: rgba(90, 9, 90, 0.7);
+    transition: 0.35s;
+}
+
+.div_searchBar:focus-within{
+    transition: 0.3s;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.747);
+    transform:translateY(-5px);
+}
+
+.logo
+{
+    width: 17%;
+    height: 17%;
+    margin-right: -25%;
+    margin-top: -31%;
+    margin-left: -3%;
+    cursor: pointer;
+}
+
+.searchBar{
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 100%;
+    height: 100%;
+    cursor: text;
+    margin-left: 5px;
+    background-color: transparent;
+    color: white;
+    opacity: 0.8;  
+}
+
+::placeholder{
+    color: white;
+}
+
+.search{
+    padding-top: 30%;   
+}
+
+.searchButton{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 31%;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.searchButton:hover{
+    letter-spacing: 1px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.searchIcon{ 
+    size: 2px;
+    margin-top: 2px;
+    font-size: 2px; 
+}
+
+.searchResults{
+    width: 45%;
+    height: 40px;
+    padding-left: 15px;
+    margin-left: 24%;
+    margin-top: -20%;
+}
+
+.results{
+    margin-left: 3%;
+    max-width: 870px;
+    margin-top: -22%;
+}
+.result{
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 16px;
+    background-image: linear-gradient(to right, rgba(236, 229, 236, 0.274), rgba(236, 234, 236, 0.753));
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    transition: 0.4s;
+}
+
+.result:hover{
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    transform:translateY(-2px);
+}
+
+.result h3{
+    font-size: 25px;
+    color: rgb(172, 122, 192);
+    margin-top: -2px;
+    margin-bottom: -0.5px;
+}
+
+.result h3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.result p{
+    font-size: 15px;
+    padding-top: -10px;
+}
+
+.a1{
+    font-size: 22px;
+    color: rgb(172, 122, 192);
+    margin-top: -2px;
+    margin-bottom: 0.5px;
+    text-decoration: none;
+    font-weight: 700;
+    font-weight: bolder;
+}
+
+.a1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.a2{
+    color: rgb(111, 199, 186);
+    font-weight: 700;
+}
+
+.a2:hover{
+    color: rgba(111, 199, 186, 0.89);
+    text-decoration: underline;   
+}
+
+p.numResults{
+    padding-left: 2%;
+    margin-top: -1%;
+}
+
+div.pag{
+    position:absolute;
+    bottom: 0;
+    bottom: -52px;
+    width: 50%; 
+}
+
+
+.searchSuggestions{
+    border-radius: 20px;
+    font-size: 18px;
+    width: 34%;
+    height: 110px;
+    padding-left: 10px;
+    background-color: rgba(90, 9, 90, 0.75);
+    margin-left: 15.5%;
+    margin-top: -25%;
+    overflow: hidden;
+    overflow-y: auto;
+    overflow-x: auto;
+    z-index: 100;
+    position: absolute;
+}
+
+.searchSuggestions::-webkit-scrollbar{
+    display: none;
+}
+
+p.suggestion{
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    line-height: 2 ;
+    margin: 5px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: auto;
+}
+
+p.suggestion:hover{
+    background-color: rgba(103, 28, 113, 0.169);
+}
+
+.speechButton{
+    background-color:transparent;
+    outline: none;
+    border: none;
+}
+
+.speechButton:hover{
+    cursor: pointer;
+}
+
+.speechIcon{
+    color: white;
+}
+
+a.prev{
+    text-decoration: none;
+    color: rgba(159, 123, 172, 0.833);
+    transition: 0.3s;
+    font-weight: bold;
+    margin-right: -23%;
+}
+
+a.prev:hover{
+    text-decoration: underline;
+    color: rgba(159, 123, 172, 0.633);
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a.next{
+    text-decoration: none;
+    color: rgba(159, 123, 172, 0.833);
+    transition: 0.3s;
+    font-weight: bold;
+    margin-left: 15%;
+}
+
+a.next:hover{
+    text-decoration: underline;
+    color: rgba(159, 123, 172, 0.633);
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a.disabledNext{
+    text-decoration: none;
+    color: rgba(194, 190, 190, 0.559);
+    margin-left: 15%;
+}
+
+a.disabledNext:hover{
+    text-decoration: none;
+    cursor:default;
+    background-color:transparent;
+}
+
+
+a.disabled{
+    text-decoration: none;
+    color: rgba(194, 190, 190, 0.559);
+    margin-right: -23%;
+}
+
+a.disabled:hover{
+    text-decoration: none;
+    cursor:default;
+    background-color:transparent;
+}
+
+.paginationNav{
+    max-width: 870px;
+    margin-left: 15%;
+    position:absolute;
+    bottom: 0;
+    bottom: -52px;
+}
+
+.pagination{
+    display: flex;
+
+}
